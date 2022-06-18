@@ -14,7 +14,11 @@
 
 For the **QHACK 2022 OPEN CHALLENGE** we decided to create a unique **Quantum-classical tic-tac-toe**.
 
-[Presentation Slides](https://docs.google.com/presentation/d/1tBLsqmwnBltVq_fbVn21o7O-7fPXAK1HzJ5LmiDLOyc/edit?usp=sharing)
+[Presentation Slides](https://github.com/Alfaxad/Qhack2022_OPen_Challenge/blob/main/Qhack%20Open%20Challenge/Quantum%20Tic%20Tac%20Toe.pdf)
+
+[Quantum Tic Tac Toe Folder](https://github.com/Alfaxad/Qhack2022_OPen_Challenge/tree/main/Qhack%20Open%20Challenge)
+
+[Quantum Tic Tac Toe Notebook](https://github.com/Alfaxad/Qhack2022_OPen_Challenge/blob/main/Qhack%20Open%20Challenge/tictactoe-final-for-presentation-with-simulaor.ipynb)
 
 The game explores superposition properties of qubits as follows:
 
